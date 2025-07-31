@@ -7,7 +7,7 @@
 [![JSZip](https://img.shields.io/badge/JSZip-FFC107?style=flat&logo=javascript&logoColor=white)](https://stuk.github.io/jszip/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-VADE (Vade's Advanced Virtual Engine) is a robust, neomorphic-themed development environment featuring a live web editor and AVA, an AI assistant powered by Gemini. Build, debug, and export web projects efficiently with modern tooling and intelligent assistance.
+VADE (Virtual Dev Environment) is a quick and robust, neomorphic-themed development environment featuring a live web editor and AVA, an AI assistant powered by Gemini. Build, debug, and export web projects efficiently with modern tooling and intelligent assistance.
 
 ## Key Features
 

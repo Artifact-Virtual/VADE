@@ -1,0 +1,6 @@
+{
+  "name": "VADE",
+  "description": "A production-ready, neomorphic-themed development environment with a live web editor and AVA (Vade's Advanced Virtual Engine), a powerful AI assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
